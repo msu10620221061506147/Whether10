@@ -17,5 +17,5 @@ This is a simple weather application that fetches real-time weather data using t
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/saro26122003/Whether-dashboard-12.git
+   git clone https://github.com/msu10620221061506147/Whether10.git
    cd weather-app
